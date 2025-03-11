@@ -1,9 +1,9 @@
 import './globals.css'
-import { inter } from "@/app/ui/fonts"
+import { lusitana } from "@/app/ui/fonts"
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html>
-      <body className={`${inter.className} p-5`}>
+      <body className={`${lusitana.className} p-5 md:p-10`}>
 
         {children}
       </body>
