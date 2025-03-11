@@ -1,6 +1,6 @@
 import { metadata } from "@/app/layout"
 
-metadata.title = "Invoice";
+metadata.title = "Orders";
 
 export default function Page() {
     return (
