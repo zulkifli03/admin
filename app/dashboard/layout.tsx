@@ -1,17 +1,18 @@
-import { Metadata } from "next"
-export const metadata: Metadata = {
-    title: "Dashboard",
-    description: "Dashoard Handmade Haven"
-}
+import { inter } from "@/app/ui/fonts"
+import { metadata } from "@/app/layout"
+import SideNav from "../ui/dashboard/sidenav";
+
+metadata.title = "Dashboard";
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
     return (
-        <html lang="en">
-            <body>
-                <main>
-                    {children}
-                </main>
-            </body>
-        </html>
+        <article className={`${inter.className} h-full flex flex-col md:flex-row text-base`}>
+            <SideNav />
+            <main className="mt-10 md:px-5 md:mt-0 w-full h-full overflow-y-auto">
+
+                {children}
+
+            </main>
+        </article>
     )
 }

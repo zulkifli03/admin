@@ -1,0 +1,49 @@
+
+1. **Dashboard**
+   - Ikhtisar dari semua pesanan dan performa penjualan.
+
+2. **Orders**
+   - **All Orders**: Lihat semua pesanan pelanggan.
+   - **Pending Orders**: Pesanan yang belum diproses.
+   - **Completed Orders**: Pesanan yang sudah selesai.
+   - **Order Status**: Lacak status pesanan saat ini.
+   
+3. **Stores**
+   - **Store Overview**: Ringkasan umum dari semua toko.
+   - **Store List**: Lihat dan kelola daftar toko.
+   - **Store Locations**: Detail tentang lokasi toko.
+   - **Store Performance**: Laporan kinerja untuk setiap toko.
+   
+4. **Sales**
+   - **Sales Performance**: Metode pengukuran performa tim sales.
+   - **Sales by Store**: Performa penjualan per toko.
+   - **Sales Report**: Laporan penjualan secara rinci.
+
+5. **Inventory**
+   - **Store Inventory**: Lihat ketersediaan produk di setiap toko.
+   - **Low Stock Alerts**: Peringatan untuk barang yang stoknya hampir habis.
+
+
+
+---
+
+### **Contoh Struktur Menu Navigasi**:
+
+1. **Dashboard**
+2. **Orders**
+   - All Orders
+   - Pending Orders
+   - Completed Orders
+   - Order Status
+3. **Stores**
+   - Store Overview
+   - Store List
+   - Store Locations
+   - Store Performance
+4. **Sales**
+   - Sales Performance
+   - Sales by Store
+   - Sales Report
+5. **Inventory**
+   - Store Inventory
+   - Low Stock Alerts

@@ -1,8 +1,40 @@
-"use client"
+
 export default function Page() {
     return (
         <>
             <h1>Dashboard</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aliquid, nisi laborum quidem reiciendis distinctio eum. Rem voluptate odio, possimus, perferendis iste pariatur, repudiandae dignissimos esse ipsam officiis aliquam beatae!</p>
         </>
     )
 }

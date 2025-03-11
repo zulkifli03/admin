@@ -1,4 +1,4 @@
-import { metadata } from "@/app/dashboard/layout"
+import { metadata } from "@/app/layout"
 
 metadata.title = "Stores";
 

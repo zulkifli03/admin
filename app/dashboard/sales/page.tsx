@@ -1,9 +1,12 @@
-import { metadata } from "@/app/dashboard/layout"
+import { metadata } from "@/app/layout"
 
 metadata.title = "Sales";
 
 export default function Page() {
     return (
-        <h1>Sales</h1>
+        <>
+            <h1>Sales</h1>
+
+        </>
     )
 }
