@@ -3,6 +3,7 @@ import { ArrowRightIcon, ChartPieIcon } from '@heroicons/react/24/outline'
 import Link from "next/link";
 import { inter } from '@/app/ui/fonts'
 export default function Home() {
+
   return (
     <>
       <header className="flex items-center bg-blue-500 text-white p-5 md:pt-30 rounded-lg">

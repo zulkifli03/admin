@@ -12,9 +12,9 @@ export default function SideNav() {
     return (
         <nav className="relative md:min-h-full md:w-sm flex flex-col justify-between ">
             <div>
-                <header className="bg-blue-500 p-5 md:h-32 rounded-lg text-white flex items-end mb-2">
+                <header className="bg-blue-500 p-5 md:pr-0 md:pt-0 md:h-32 rounded-lg text-white flex items-end mb-2">
                     <ChartPieIcon className="w-10 md:w-10 md:h-10 " />
-                    <h1 className={` ${lusitana.className} text-2xl md:text-xl ml-1`}>Handmade Haven</h1>
+                    <h1 className={` ${lusitana.className} text-xl md:text-3xl `}>Handmade Haven</h1>
                 </header>
                 <div className="flex md:flex-col justify-between md:gap-2">
                     <Link href="/dashboard" className={`${path == "/dashboard" ? 'bg-blue-200 text-blue-500' : 'bg-blue-50'} transition-all duration-300 rounded-lg  flex items-center p-5 font-medium`} >
