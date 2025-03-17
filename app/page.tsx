@@ -23,7 +23,8 @@ export default function Home() {
           </Link>
         </section>
         <section>
-          <Image src={"/admin.jpeg"} width={500} height={500} alt="Admin Vector" />
+          <Image src={"/admin.jpeg"} width={500} height={500} priority={true}
+            alt="Admin Vector" />
 
         </section>
       </main>
