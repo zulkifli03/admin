@@ -1,6 +1,5 @@
 import postgres from 'postgres';
 import { Sales } from './definition';
-import { resolve } from 'path';
 const sql = postgres(process.env.POSTGRES_URL!, { ssl: 'require' });
 
 export async function fetchSales({ query }: { query: string }) {

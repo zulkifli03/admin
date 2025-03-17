@@ -1,5 +1,5 @@
 import { fetchSales } from "@/app/lib/data";
-import { TrashIcon, PencilIcon } from '@heroicons/react/24/outline'
+import { PencilIcon } from '@heroicons/react/24/outline'
 import Link from "next/link";
 import { ButtonDelete } from "@/app/ui/sales/buttons";
 export function ListSkelton() {
